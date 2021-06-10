@@ -38,4 +38,4 @@ jobs:
           name: run lint
           command: |
             . venv/bin/activate
-            ./hadolint-Linux-x86_64 Dockerfile
+            make lint
