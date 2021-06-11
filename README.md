@@ -1,5 +1,5 @@
 # udacity_devops_deployML
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/umfarooq0/udacity_devops_deployML)
 
 * Create a virtualenv and activate it
 
